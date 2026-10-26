@@ -1,0 +1,14 @@
+{
+  "county_id": 7,
+  "county_name": "Bergen",
+  "towns": [],
+  "zips": [],
+  "fetch_details": true,
+  "email": {
+    "enabled": true,
+    "to": "you@gmail.com",
+    "from": "you@gmail.com",
+    "smtp_host": "smtp.gmail.com",
+    "smtp_port": 465
+  }
+}
